@@ -1,6 +1,6 @@
 
 
-# ☁️ *Project RIDWAN-STORE™ version 3.01* ☁️
+# ☁️ *Project EFFATA-STORE™ version 3.01* ☁️
 
 Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-installed tunneling software. See below for a list of pre-installed programs.
 
@@ -22,7 +22,7 @@ Project Fog is a VPS AutoScript for Ubuntu and Debian Distros. Comes with pre-in
 
 ## Installation
 
-_It will install the version of RIDWAN-STORE™ that is compatible with your VPS's operating system and version._
+_It will install the version of EFFATA-STORE™ that is compatible with your VPS's operating system and version._
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/76937659/153705486-44e6c1b2-74fa-4d44-be1c-36c8fdb83331.gif"/>
@@ -36,13 +36,13 @@ rm -f setup.sh && sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ip
 </p>
 
 
-_The version can be manually chosen for your virtual private server if universal installation fails._ See [Ridwan Fog Versions_](docs/fog-versions.md).
+_The version can be manually chosen for your virtual private server if universal installation fails._ See [EFFATA Fog Versions_](docs/fog-versions.md).
 ##
 
 
 
 ## Command: _menu_ 
-`Use this to access PROJECT RIDWAN Menu through vps terminal`
+`Use this to access PROJECT EFFATA Menu through vps terminal`
 #
 
     
